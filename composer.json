@@ -1,0 +1,11 @@
+{
+    "name": "ahas/php-jwt",
+    "description": "belajar jwt",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ahas\\PhpJwt\\": "src/"
+        }
+    },
+    "require": {}
+}
